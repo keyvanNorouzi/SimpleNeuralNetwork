@@ -1,4 +1,4 @@
-Simple neural network
+# niloofar baseri salehi , alis azadi , keyvan norouzi
 =========
 
 Simple neural network is a Java project that allow users to easily create a **asynchronous simple neural network**.
